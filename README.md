@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+Mingyuan+Xu;aka+MasterpieceXu" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+Mingyuan+Xu;aka+MasterpieceXu" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://leetcode.cn/u/masterpiecexu/">
@@ -19,18 +19,14 @@
 
 ---
 
-### 🧠 Professional Summary
+### 🧠 Profile Summary
 
-<h3>
-  I am an **AI Master's student** at the **University of New South Wales (UNSW)**, specializing in the intersection of **Recommendation Systems (RecSys)** and **Generative AI (GenAI)**. I bridge the gap between complex algorithmic research and high-performance backend engineering.
-</h3>
+**I am an AI Master's student at UNSW with a core interest in Recommendation Systems, Generative RecSys, and Full-Stack technologies.** I am passionate about bridging the gap between sophisticated algorithmic research and building complete, scalable intelligent systems.
 
-<br/>
-
-- 🎯 **Target Role:** Algorithm Engineer (Search, Recommendation, Advertising)
-- ⚙️ **Engineering:** High-concurrency algorithm backends with **Python & Flask**
-- 🧠 **Research:** Generative Recommendation (GenRec) & LLM-driven RecSys
-- 🎓 **Education:** UNSW (MIT-AI, 2027) | CUG (B.Eng)
+- 🎯 **Core Focus:** Building next-generation **Generative Recommendation (GenRec)** models.
+- ⚙️ **Engineering:** Integrating **Algorithm Research** with robust **Full-Stack** backend excellence.
+- 🧠 **Interests:** LLM-driven RecSys, Search Algorithms, and high-concurrency architecture.
+- 🎓 **Identity:** UNSW Sydney | Master of IT (AI) | Class of 2027.
 
 ---
 
@@ -38,15 +34,15 @@
 
 | Domain | Tech Stack |
 | :--- | :--- |
-| **Languages** | **Python**, SQL, Shell |
-| **AI / ML** | **PyTorch**, DeepRec, NLP, GenRec, LLM |
-| **Backend** | **Flask**, FastAPI, Redis, PostgreSQL |
-| **DevOps** | **Docker**, Linux, GitHub Actions, Git |
+| **Languages** | **Python**, SQL (PostgreSQL/MySQL), Shell, HTML/JS |
+| **AI / ML** | **PyTorch**, DeepRec, NLP, **GenRec**, LLM |
+| **Databases** | **PostgreSQL**, MySQL, Redis |
+| **Full-Stack / Ops** | **Flask**, FastAPI, **Docker**, Linux, Git |
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,flask,fastapi,mysql,redis,docker,github,linux&theme=dark" height="70px" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,postgres,mysql,redis,flask,fastapi,docker,linux,github,js,html&theme=dark" height="70px" />
 </div>
 
 ---
