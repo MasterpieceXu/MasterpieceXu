@@ -4,8 +4,7 @@
 
 <br/>
 
-# 🌌 Mingyuan Xu
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Master+of+AI+@+UNSW;Algorithm+Engineer;RecSys+%26+GenRec+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+Mingyuan+Xu;aka+MasterpieceXu" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://leetcode.cn/u/masterpiecexu/">
@@ -21,12 +20,17 @@
 ---
 
 ### 🧠 Professional Summary
-I am a Master's student at the **University of New South Wales (UNSW)**, specializing in **Artificial Intelligence**. My career is focused on the intersection of **Recommendation Systems** and **Generative AI**, bridging the gap between cutting-edge research and scalable backend engineering.
 
-- 🔭 **Target Role:** Algorithm Engineer (Search, Recommendation, and Advertising)
-- ⚙️ **Engineering:** High-performance algorithm services with **Python & Flask**
+<h3>
+  I am an **AI Master's student** at the **University of New South Wales (UNSW)**, specializing in the intersection of **Recommendation Systems (RecSys)** and **Generative AI (GenAI)**. I bridge the gap between complex algorithmic research and high-performance backend engineering.
+</h3>
+
+<br/>
+
+- 🎯 **Target Role:** Algorithm Engineer (Search, Recommendation, Advertising)
+- ⚙️ **Engineering:** High-concurrency algorithm backends with **Python & Flask**
 - 🧠 **Research:** Generative Recommendation (GenRec) & LLM-driven RecSys
-- 🎓 **Education:** UNSW (Master of IT - AI, 2027) | CUG (B.Eng)
+- 🎓 **Education:** UNSW (MIT-AI, 2027) | CUG (B.Eng)
 
 ---
 
@@ -35,19 +39,19 @@ I am a Master's student at the **University of New South Wales (UNSW)**, special
 | Domain | Tech Stack |
 | :--- | :--- |
 | **Languages** | **Python**, SQL, Shell |
-| **AI / ML** | **PyTorch**, DeepRec, NLP, GenRec |
-| **Backend** | **Flask**, FastAPI, Redis, MySQL |
+| **AI / ML** | **PyTorch**, DeepRec, NLP, GenRec, LLM |
+| **Backend** | **Flask**, FastAPI, Redis, PostgreSQL |
 | **DevOps** | **Docker**, Linux, GitHub Actions, Git |
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,flask,fastapi,mysql,redis,docker,github,linux&theme=dark" height="65px" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,flask,fastapi,mysql,redis,docker,github,linux&theme=dark" height="70px" />
 </div>
 
 ---
 
-### 📈 Metrics & Activity
+### 📈 System Metrics & Activity
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=MasterpieceXu&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
