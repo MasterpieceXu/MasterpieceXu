@@ -1,10 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:58a6ff,100:000000&height=250&section=header&text=Mingyuan%20Xu&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px rgba(88, 166, 255, 0.4);" />
+<svg width="800" height="320" viewBox="0 0 800 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip0">
+      <rect width="800" height="320" rx="20" fill="white"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)">
+    <image href="./profile-bg.png" width="800" height="320" preserveAspectRatio="xMidYMid slice" opacity="0.25" />
+    <text x="400" y="140" text-anchor="middle" fill="#58A6FF" style="font: bold 48px 'Segoe UI', sans-serif; filter: drop-shadow(0 0 10px rgba(88,166,255,0.4));">Mingyuan Xu</text>
+    <text x="400" y="195" text-anchor="middle" fill="#C9D1D9" style="font: 700 24px 'Segoe UI', sans-serif;">Master of IT (AI) @ UNSW Sydney</text>
+    <text x="400" y="235" text-anchor="middle" fill="#8B949E" style="font: 18px 'Segoe UI', sans-serif;">Algorithm Engineer | Search, Rec &amp; Ad Focus</text>
+  </g>
+  <rect x="0.5" y="0.5" width="799" height="319" rx="19.5" stroke="#58A6FF" stroke-opacity="0.3"/>
+</svg>
 
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+Mingyuan+Xu;Master+of+AI+@+UNSW" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://leetcode.cn/u/masterpiecexu/">
@@ -19,26 +30,13 @@
 
 ---
 
-### 🚀 Technical Stack
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,flask,fastapi,mysql,redis,docker,github,linux&theme=dark" height="75px" />
-
-</div>
-
----
-
 ### 🧠 Profile Summary
-I am a Master's student at **UNSW** specializing in **Artificial Intelligence**. I bridge the gap between advanced **Recommendation Algorithms** and high-performance **Backend Engineering**.
+I am a dedicated **AI Master's student** at the **University of New South Wales (UNSW)**, driven by a passion for building intelligent systems that understand user intent at scale. I bridge the gap between sophisticated **Recommendation Algorithms** and high-performance **Backend Engineering**.
 
-- 🔭 **Expertise:** Search, Recommendation, and Advertising (Search/Rec/Ad)
-- ⚙️ **Core:** Scalable Algorithm Backends with **Python & Flask**
-- 🧠 **Research:** Next-gen **Generative Recommendation** & Large-scale RecSys
+- 🔭 **Career Objective:** Seeking a position as an **Algorithm Engineer** (Search, Recommendation, and Advertising).
+- ⚙️ **Engineering Focus:** Developing scalable algorithm services using **Python** & **Flask**.
+- 🧠 **Research Interest:** Pioneering **Generative Recommendation (GenRec)**, LLM integration in RecSys, and high-concurrency systems.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MasterpieceXu&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <br/>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</div>
+### 🛠️ Technical Landscape
