@@ -27,7 +27,8 @@
 - ⚙️ **Engineering:** Integrating **Algorithm Research** with robust **Full-Stack** backend excellence.
 - 🧠 **Interests:** LLM-driven RecSys, Search Algorithms, and high-concurrency architecture.
 - 🎓 **Identity:** UNSW Sydney | Master of IT (AI) | Class of 2027.
-
+### 📄 [查看我的在线简历](https://masterpiecexu.github.io/MasterpieceXu/推荐算法实习简历-徐鸣远.pdf)
+### 📄 [Here is my Resume](https://masterpiecexu.github.io/MasterpieceXu/cv-internship.pdf)
 ---
 
 ### 🛠️ Technical Ecosystem
