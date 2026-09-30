@@ -32,7 +32,7 @@ I enjoy building end-to-end AI applications — from **LLM integration and Agent
 - 💼 Experience: **JD.com | EY**
 - 🎓 UNSW Sydney | Master of IT (AI) | Class of 2027
 ### 📄 [查看我的在线简历](https://masterpiecexu.github.io/MasterpieceXu/推荐算法实习简历-徐鸣远.pdf)
-### 📄 [Here is my Resume](https://masterpiecexu.github.io/MasterpieceXu/cv-internship.pdf)
+
 ---
 
 ### 🛠️ Technical Ecosystem
