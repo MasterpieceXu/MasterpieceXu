@@ -19,14 +19,18 @@
 
 ---
 
-### 🧠 Profile Summary
+## 🧠 About Me
 
-**I am an AI Master's student at UNSW with a core interest in Recommendation Systems, Generative RecSys, and Full-Stack technologies.** I am passionate about bridging the gap between sophisticated algorithmic research and building complete, scalable intelligent systems.
+Hi, I'm **Mingyuan Xu**, a Master's student in **Information Technology (AI) at UNSW** and an aspiring **AI Full-Stack / Agent Engineer**.
 
-- 🎯 **Core Focus:** Building next-generation **Generative Recommendation (GenRec)** models.
-- ⚙️ **Engineering:** Integrating **Algorithm Research** with robust **Full-Stack** backend excellence.
-- 🧠 **Interests:** LLM-driven RecSys, Search Algorithms, and high-concurrency architecture.
-- 🎓 **Identity:** UNSW Sydney | Master of IT (AI) | Class of 2027.
+I enjoy building end-to-end AI applications — from **LLM integration and Agent workflows** to **backend services, databases, and user-facing products**.
+
+- 🤖 Building: **AI Agents, LLM Applications & Intelligent Workflows**
+- 🧩 Exploring: **RAG, Tool Calling, MCP & Agentic Systems**
+- ⚙️ Engineering: **Python | Java | Full-Stack | Backend | SQL**
+- 🔍 Also interested in: **Recommendation Systems & Search**
+- 💼 Experience: **JD.com | EY**
+- 🎓 UNSW Sydney | Master of IT (AI) | Class of 2027
 ### 📄 [查看我的在线简历](https://masterpiecexu.github.io/MasterpieceXu/推荐算法实习简历-徐鸣远.pdf)
 ### 📄 [Here is my Resume](https://masterpiecexu.github.io/MasterpieceXu/cv-internship.pdf)
 ---
